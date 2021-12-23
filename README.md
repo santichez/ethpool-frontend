@@ -10,7 +10,7 @@ Users can also view the TVL (in Ether) of the pool.
 
 ## Demo
 
-- Demo can be found at https://ethpool.afterdev.com.ar/
+- Demo can be found at https://ethpool.afterdev.com.ar/ [Not currently live]
 
 ## How to run
 
